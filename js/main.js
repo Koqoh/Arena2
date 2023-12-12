@@ -37,7 +37,7 @@ const DRAGON_SPRITE_BEEG = [
 console.log(arenaGrid);
 let textDisplay = "WELCOME TO THE ARENA, CHAMPION! CAN YOU SURVIVE THE BLOODBATH?";
 document.getElementById("monsterSpan").innerHTML = AsciiToHTMLSprite(DRAGON_SPRITE_BEEG);
-console.log()
+console.log("new page?")
 document.getElementById("textSpan").innerHTML = textDisplay;
 console.log(AsciiToHTMLSprite(DRAGON_SPRITE_BEEG));
 
